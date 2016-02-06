@@ -1,0 +1,7 @@
+TRACE	2016-02-06 00:35:02,005	0	root	[main]	In the Main Function
+TRACE	2016-02-06 00:35:51,975	0	root	[main]	In the Main Function
+TRACE	2016-02-06 00:36:11,321	0	root	[main]	In the Main Function
+TRACE	2016-02-06 00:36:42,846	0	root	[main]	In the Main Function
+TRACE	2016-02-06 00:36:42,848	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 00:36:42,864	18	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 00:36:42,866	20	root	[main]	Exiting Main Function

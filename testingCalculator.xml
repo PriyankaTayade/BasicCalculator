@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test1">
+  	<parameter name="var1" value="2" />
+  	<parameter name="var2" value="2" />
+  	<parameter name="op" value="add" />
+  	<parameter name="expectedResult" value="4" />
+    <classes>
+      <class name="TestCalculator.TestCalculator"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Test2">
+  	<parameter name="var1" value="3" />
+  	<parameter name="var2" value="2" />
+  	<parameter name="op" value="sub" />
+  	<parameter name="expectedResult" value="1" />
+    <classes>
+      <class name="TestCalculator.TestCalculator"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Test3">
+  	<parameter name="var1" value="2" />
+  	<parameter name="var2" value="5" />
+  	<parameter name="op" value="mult" />
+  	<parameter name="expectedResult" value="10" />
+    <classes>
+      <class name="TestCalculator.TestCalculator"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Test4">
+  	<parameter name="var1" value="4" />
+  	<parameter name="var2" value="2" />
+  	<parameter name="op" value="div" />
+  	<parameter name="expectedResult" value="2" />
+    <classes>
+      <class name="TestCalculator.TestCalculator"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
