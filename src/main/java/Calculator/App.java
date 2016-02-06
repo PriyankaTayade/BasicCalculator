@@ -24,29 +24,27 @@ public class App
 	
 	private static void setLogger(String level){
 		
-			switch(level){
-			 
-			 	case "all": logger.setLevel(Level.ALL);
-			 					break;
+			if(level.equals("all"))
+				logger.setLevel(Level.ALL);
+			
+			if(level.equals("info"))
+				logger.setLevel(Level.INFO);
+			
+			if(level.equals("error"))
+				logger.setLevel(Level.ERROR);
+			
+			if(level.equals("debug"))
+				logger.setLevel(Level.DEBUG);
+			
+			if(level.equals("fatal"))
+				logger.setLevel(Level.FATAL);
+			
+			if(level.equals("trace"))
+				logger.setLevel(Level.TRACE);
+			
+			if(level.equals("warn"))
+				logger.setLevel(Level.WARN);
 			 					
-			 	case "info": logger.setLevel(Level.INFO);
-								break;
-					
-			 	case "error": logger.setLevel(Level.ERROR);
-								break;
-					
-			 	case "debug": logger.setLevel(Level.DEBUG);
-								break;
-					
-			 	case "fatal": logger.setLevel(Level.FATAL);
-								break;
-					
-			 	case "trace": logger.setLevel(Level.TRACE);
-								break;
-					
-			 	case "warn": logger.setLevel(Level.WARN);
-								break;
-			}
 	}
     public static void main( String[] args )
     {

@@ -5,17 +5,19 @@ public class Calculator {
 
 	public int BasicArithmatic(int var1, int var2, String op){
 
-		switch(op){
-		case "add" : var1 = var1  + var2;
-					break;
-		case "sub" : var1= var1 - var2;
-					break;
-		case "div" : var1= var1 / var2;
-					break;
-		case "mult" : var1= var1 * var2;
-					break;	
-		}
-		return var1;
+		if(op.equals("add"))
+			return var1  + var2;
+		
+		if(op.equals("sub"))
+			return var1  - var2;
+		
+		if(op.equals("div"))
+			return var1  / var2;
+		
+		if(op.equals("mult"))
+			return var1  * var2;
+
+		return Integer.MIN_VALUE;
 	}
 	
 	/*public boolean ValidateInput(String input){
