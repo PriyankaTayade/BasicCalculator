@@ -1,0 +1,13 @@
+{
+  "name": "BasicCalculator",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "codeship"
+  ],
+  "buildpacks": [
+
+  ]
+}
