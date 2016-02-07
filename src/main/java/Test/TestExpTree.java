@@ -1,7 +1,9 @@
 package Test;
-import static org.junit.Assert.*;
+//import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+//import org.junit.Test;
 
 import Calculator.ExpressionTree;
 
@@ -18,7 +20,12 @@ public class TestExpTree {
 		 
 		 for(int i=0;i<exp.length;i++){
 			 ExpressionTree expression=new ExpressionTree(exp[i]);
-			 assertEquals(result[i],expression.getExpressionResult()); 
+			 //assertEquals(result[i],expression.getExpressionResult()); 
+			 if(result[i]!=expression.getExpressionResult()){
+				 System.out.println("Test Case failed");
+				 break;
+			 }
+			 else System.out.println("Test Case "+exp[i]+"passed");
 		 }
 	  }
 	 
