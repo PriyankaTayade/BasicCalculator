@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+        <test name="Test5">
+  	<parameter name="exp" value="add(2,5)" />
+  	<parameter name="result" value="7" />
+    <classes>
+      <class name="Test.TestExpTree"/>
+    </classes>
+  </test> <!-- Test -->
+      <test name="Test6">
+  	<parameter name="exp" value="add(1,mult(2,3))" />
+  	<parameter name="result" value="7" />
+    <classes>
+      <class name="Test.TestExpTree"/>
+    </classes>
+  </test> <!-- Test -->
+      <test name="Test7">
+  	<parameter name="exp" value="mult(add(2,2),div(9,3))" />
+  	<parameter name="result" value="12" />
+    <classes>
+      <class name="Test.TestExpTree"/>
+    </classes>
+  </test> <!-- Test -->
+      <test name="Test8">
+  	<parameter name="exp" value="let(a,5,add(a,10))" />
+  	<parameter name="result" value="15" />
+    <classes>
+      <class name="Test.TestExpTree"/>
+    </classes>
+  </test> <!-- Test -->
+        <test name="Test9">
+  	<parameter name="exp" value="let(a,5,let(b,mult(a,10),add(b,a)))" />
+  	<parameter name="result" value="55" />
+    <classes>
+      <class name="Test.TestExpTree"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

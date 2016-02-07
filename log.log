@@ -5,3 +5,1305 @@ TRACE	2016-02-06 00:36:42,846	0	root	[main]	In the Main Function
 TRACE	2016-02-06 00:36:42,848	2	root	[main]	Setting logging level to all
 TRACE	2016-02-06 00:36:42,864	18	root	[main]	Successfully Generated Expression tree
 TRACE	2016-02-06 00:36:42,866	20	root	[main]	Exiting Main Function
+TRACE	2016-02-06 14:05:06,223	1	root	[main]	In the Main Function
+TRACE	2016-02-06 14:05:06,226	4	root	[main]	Setting logging level to all
+TRACE	2016-02-06 14:05:06,233	11	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 14:05:06,235	13	root	[main]	Exiting Main Function
+TRACE	2016-02-06 14:09:54,569	0	root	[main]	In the Main Function
+TRACE	2016-02-06 14:09:54,572	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 14:09:54,577	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 14:09:54,579	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 14:10:16,685	0	root	[main]	In the Main Function
+TRACE	2016-02-06 14:10:16,689	4	root	[main]	Setting logging level to all
+TRACE	2016-02-06 14:10:16,699	14	root	[main]	Exiting Main Function
+TRACE	2016-02-06 14:11:33,197	0	root	[main]	In the Main Function
+TRACE	2016-02-06 14:11:33,199	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 14:11:33,204	7	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 14:11:33,205	8	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:03:30,140	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:03:30,143	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:03:30,149	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:03:30,151	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:08:30,472	1	root	[main]	In the Main Function
+TRACE	2016-02-06 15:08:30,474	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:08:30,481	10	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:08:30,483	12	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:08:52,740	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:08:52,743	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:08:52,749	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:08:52,751	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:11:08,902	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:11:08,906	4	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:11:08,912	10	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:11:08,914	12	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:11:49,967	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:11:49,970	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:11:49,975	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:11:49,977	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:12:31,945	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:12:31,947	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:12:31,952	7	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:12:31,955	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:15:35,829	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:15:35,831	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:15:35,837	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:15:35,839	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:17:40,610	1	root	[main]	In the Main Function
+TRACE	2016-02-06 15:17:40,613	4	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:17:40,621	12	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:19:21,008	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:19:21,011	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:19:21,019	11	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:19:21,019	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:20:07,018	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:20:07,021	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:20:07,028	10	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:20:07,033	15	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:20:33,208	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:20:33,211	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:20:33,217	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:20:33,221	13	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:22:47,460	1	root	[main]	In the Main Function
+TRACE	2016-02-06 15:22:47,462	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:22:47,470	11	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:22:47,470	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:23:21,429	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:23:21,431	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:23:21,439	10	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:23:21,439	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:23:53,828	1	root	[main]	In the Main Function
+TRACE	2016-02-06 15:23:53,830	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:23:53,835	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:23:53,839	12	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:24:16,266	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:24:16,268	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:24:16,275	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:24:16,276	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:24:31,629	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:24:31,631	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:24:31,637	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:24:31,638	9	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:25:22,703	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:25:22,705	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:25:22,712	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:25:22,713	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:26:04,218	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:26:04,221	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:26:04,226	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:26:04,228	10	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:26:31,004	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:26:31,006	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:26:31,012	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:26:31,015	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:28:21,477	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:28:21,479	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:28:21,486	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:28:21,488	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:30:29,097	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:30:29,100	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:30:29,106	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:30:29,109	12	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:49:07,803	1	root	[main]	In the Main Function
+TRACE	2016-02-06 15:49:07,805	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:49:07,811	9	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:49:07,814	12	root	[main]	Exiting Main Function
+TRACE	2016-02-06 15:49:38,870	0	root	[main]	In the Main Function
+TRACE	2016-02-06 15:49:38,873	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 15:49:38,878	8	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 15:49:38,880	10	root	[main]	Calculator Initialized
+TRACE	2016-02-06 15:49:38,880	10	root	[main]	BasicArithmatic method called
+INFO	2016-02-06 15:49:38,880	10	root	[main]	div operation found
+DEBUG	2016-02-06 15:49:38,881	11	root	[main]	BasicArithmatic method for div operation77 and 2 result38
+TRACE	2016-02-06 15:49:38,881	11	root	[main]	Exiting Main Function
+TRACE	2016-02-06 16:06:41,892	0	root	[main]	In the Main Function
+TRACE	2016-02-06 16:06:41,894	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 16:06:41,896	4	root	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 16:06:41,896	4	root	[main]	ExpressionBuild method called
+DEBUG	2016-02-06 16:06:41,897	5	root	[main]	head is found let
+DEBUG	2016-02-06 16:06:41,901	9	root	[main]	Left node is found with varibale namea
+DEBUG	2016-02-06 16:06:41,901	9	root	[main]	Left node is found with varibale name2
+DEBUG	2016-02-06 16:06:41,902	10	root	[main]	Right node is found div
+DEBUG	2016-02-06 16:06:41,902	10	root	[main]	Left node is found with varibale name77
+DEBUG	2016-02-06 16:06:41,902	10	root	[main]	Right node is found with varibale namea
+INFO	2016-02-06 16:06:41,902	10	root	[main]	Proccessed input
+TRACE	2016-02-06 16:06:41,902	10	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 16:06:41,903	11	root	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 16:06:41,904	12	root	[main]	Calculator Initialized
+TRACE	2016-02-06 16:06:41,904	12	root	[main]	BasicArithmatic method called
+INFO	2016-02-06 16:06:41,904	12	root	[main]	div operation found
+DEBUG	2016-02-06 16:06:41,905	13	root	[main]	BasicArithmatic method for div operation77 and 2 result38
+TRACE	2016-02-06 16:06:41,905	13	root	[main]	Exiting Main Function
+TRACE	2016-02-06 16:29:14,238	0	root	[main]	In the Main Function
+TRACE	2016-02-06 16:29:14,240	2	root	[main]	Setting logging level to all
+TRACE	2016-02-06 16:29:14,241	3	root	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 16:29:14,242	4	root	[main]	ExpressionBuild method called
+TRACE	2016-02-06 16:29:14,243	5	root	[main]	New Node is initialized
+TRACE	2016-02-06 16:29:14,243	5	root	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 16:29:14,243	5	root	[main]	head is found let
+TRACE	2016-02-06 16:29:14,244	6	root	[main]	New Node is initialized
+TRACE	2016-02-06 16:29:14,247	9	root	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:29:14,248	10	root	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 16:29:14,248	10	root	[main]	New Node is initialized
+TRACE	2016-02-06 16:29:14,248	10	root	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 16:29:14,248	10	root	[main]	Left node is found with value 2
+TRACE	2016-02-06 16:29:14,248	10	root	[main]	New Node is initialized
+TRACE	2016-02-06 16:29:14,249	11	root	[main]	div operator is set with value -1
+DEBUG	2016-02-06 16:29:14,249	11	root	[main]	Right node is found div
+TRACE	2016-02-06 16:29:14,249	11	root	[main]	New Node is initialized
+TRACE	2016-02-06 16:29:14,249	11	root	[main]	value of the node is set to 77 and is set to leaf node
+DEBUG	2016-02-06 16:29:14,249	11	root	[main]	Left node is found with value 77
+TRACE	2016-02-06 16:29:14,250	12	root	[main]	New Node is initialized
+TRACE	2016-02-06 16:29:14,250	12	root	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:29:14,250	12	root	[main]	Right node is found with varibale name a
+INFO	2016-02-06 16:29:14,251	13	root	[main]	Proccessed input
+TRACE	2016-02-06 16:29:14,251	13	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 16:29:14,251	13	root	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 16:29:14,251	13	root	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:29:14,251	13	root	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:29:14,252	14	root	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:29:14,252	14	root	[main]	Leaf node with value 2
+DEBUG	2016-02-06 16:29:14,252	14	root	[main]	Output of left node traversal is 2
+DEBUG	2016-02-06 16:29:14,252	14	root	[main]	let operator found storing variable with namea and value 2
+TRACE	2016-02-06 16:29:14,252	14	root	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:29:14,253	15	root	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:29:14,253	15	root	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:29:14,253	15	root	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:29:14,253	15	root	[main]	Leaf node with value 77
+DEBUG	2016-02-06 16:29:14,253	15	root	[main]	Output of left node traversal is 77
+TRACE	2016-02-06 16:29:14,254	16	root	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:29:14,254	16	root	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:29:14,254	16	root	[main]	Leaf node with value 2 varibale name a
+DEBUG	2016-02-06 16:29:14,254	16	root	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 16:29:14,254	16	root	[main]	Evaluating operator div for values 77 and 2
+TRACE	2016-02-06 16:29:14,256	18	root	[main]	Calculator Initialized
+TRACE	2016-02-06 16:29:14,256	18	root	[main]	BasicArithmatic method called
+INFO	2016-02-06 16:29:14,257	19	root	[main]	div operation found
+DEBUG	2016-02-06 16:29:14,257	19	root	[main]	BasicArithmatic method for div operation77 and 2 result38
+DEBUG	2016-02-06 16:29:14,257	19	root	[main]	Result of div is 38
+TRACE	2016-02-06 16:29:14,257	19	root	[main]	Returning result 38
+DEBUG	2016-02-06 16:29:14,257	19	root	[main]	Output of right node traversal is 38
+TRACE	2016-02-06 16:29:14,257	19	root	[main]	Returning result 38
+TRACE	2016-02-06 16:29:14,258	20	root	[main]	Exiting Main Function
+TRACE	2016-02-06 16:30:45,233	0	root	[main]	In the Main Function
+TRACE	2016-02-06 16:30:45,236	3	root	[main]	Setting logging level to all
+TRACE	2016-02-06 16:30:45,237	4	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 16:30:45,237	4	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 16:30:45,238	5	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:30:45,239	6	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 16:30:45,239	6	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 16:30:45,239	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:30:45,243	10	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:30:45,243	10	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 16:30:45,243	10	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:30:45,244	11	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 16:30:45,244	11	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 16:30:45,244	11	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:30:45,244	11	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 16:30:45,244	11	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 16:30:45,245	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:30:45,245	12	Calculator.ExpressionTree	[main]	value of the node is set to 77 and is set to leaf node
+DEBUG	2016-02-06 16:30:45,245	12	Calculator.ExpressionTree	[main]	Left node is found with value 77
+TRACE	2016-02-06 16:30:45,245	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:30:45,246	13	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:30:45,246	13	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 16:30:45,246	13	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 16:30:45,246	13	root	[main]	Successfully Generated Expression tree
+TRACE	2016-02-06 16:30:45,247	14	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 16:30:45,247	14	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:30:45,247	14	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:30:45,248	15	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:30:45,248	15	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 16:30:45,248	15	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+DEBUG	2016-02-06 16:30:45,248	15	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 2
+TRACE	2016-02-06 16:30:45,249	16	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:30:45,249	16	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:30:45,249	16	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:30:45,250	17	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:30:45,250	17	Calculator.ExpressionTree	[main]	Leaf node with value 77
+DEBUG	2016-02-06 16:30:45,250	17	Calculator.ExpressionTree	[main]	Output of left node traversal is 77
+TRACE	2016-02-06 16:30:45,250	17	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:30:45,250	17	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:30:45,251	18	Calculator.ExpressionTree	[main]	Leaf node with value 2 varibale name a
+DEBUG	2016-02-06 16:30:45,251	18	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 16:30:45,251	18	Calculator.ExpressionTree	[main]	Evaluating operator div for values 77 and 2
+TRACE	2016-02-06 16:30:45,253	20	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 16:30:45,253	20	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 16:30:45,254	21	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 16:30:45,254	21	Calculator.Calculator	[main]	BasicArithmatic method for div operation77 and 2 result38
+DEBUG	2016-02-06 16:30:45,254	21	Calculator.ExpressionTree	[main]	Result of div is 38
+TRACE	2016-02-06 16:30:45,254	21	Calculator.ExpressionTree	[main]	Returning result 38
+DEBUG	2016-02-06 16:30:45,254	21	Calculator.ExpressionTree	[main]	Output of right node traversal is 38
+TRACE	2016-02-06 16:30:45,255	22	Calculator.ExpressionTree	[main]	Returning result 38
+TRACE	2016-02-06 16:30:45,255	22	root	[main]	Exiting Main Function
+TRACE	2016-02-06 16:33:03,395	1	Calculator.App	[main]	In the Main Function
+TRACE	2016-02-06 16:33:03,397	3	Calculator.App	[main]	Setting logging level to all
+TRACE	2016-02-06 16:33:03,399	5	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 16:33:03,399	5	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 16:33:03,400	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:33:03,401	7	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 16:33:03,401	7	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 16:33:03,401	7	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:33:03,405	11	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:33:03,405	11	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 16:33:03,405	11	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:33:03,405	11	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 16:33:03,406	12	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 16:33:03,406	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:33:03,406	12	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 16:33:03,406	12	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 16:33:03,406	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:33:03,407	13	Calculator.ExpressionTree	[main]	value of the node is set to 77 and is set to leaf node
+DEBUG	2016-02-06 16:33:03,407	13	Calculator.ExpressionTree	[main]	Left node is found with value 77
+TRACE	2016-02-06 16:33:03,407	13	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:33:03,407	13	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:33:03,408	14	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 16:33:03,408	14	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 16:33:03,408	14	Calculator.App	[main]	Generated Expression tree
+TRACE	2016-02-06 16:33:03,408	14	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 16:33:03,409	15	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:33:03,409	15	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:33:03,409	15	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:33:03,409	15	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 16:33:03,409	15	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+DEBUG	2016-02-06 16:33:03,410	16	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 2
+TRACE	2016-02-06 16:33:03,410	16	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:33:03,410	16	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:33:03,410	16	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:33:03,411	17	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:33:03,411	17	Calculator.ExpressionTree	[main]	Leaf node with value 77
+DEBUG	2016-02-06 16:33:03,411	17	Calculator.ExpressionTree	[main]	Output of left node traversal is 77
+TRACE	2016-02-06 16:33:03,411	17	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:33:03,412	18	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:33:03,412	18	Calculator.ExpressionTree	[main]	Leaf node with value 2 varibale name a
+DEBUG	2016-02-06 16:33:03,412	18	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 16:33:03,412	18	Calculator.ExpressionTree	[main]	Evaluating operator div for values 77 and 2
+TRACE	2016-02-06 16:33:03,414	20	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 16:33:03,414	20	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 16:33:03,415	21	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 16:33:03,415	21	Calculator.Calculator	[main]	BasicArithmatic method for div operation77 and 2 result38
+DEBUG	2016-02-06 16:33:03,415	21	Calculator.ExpressionTree	[main]	Result of div is 38
+TRACE	2016-02-06 16:33:03,415	21	Calculator.ExpressionTree	[main]	Returning result 38
+DEBUG	2016-02-06 16:33:03,415	21	Calculator.ExpressionTree	[main]	Output of right node traversal is 38
+TRACE	2016-02-06 16:33:03,416	22	Calculator.ExpressionTree	[main]	Returning result 38
+TRACE	2016-02-06 16:33:03,416	22	Calculator.App	[main]	Exiting Main Function
+INFO	2016-02-06 16:37:19,209	0	Calculator.App	[main]	Started the Calulator Application
+TRACE	2016-02-06 16:37:19,212	3	Calculator.App	[main]	Setting logging level to all
+TRACE	2016-02-06 16:37:19,213	4	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 16:37:19,213	4	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 16:37:19,214	5	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:37:19,215	6	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 16:37:19,215	6	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 16:37:19,215	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:37:19,219	10	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:37:19,219	10	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 16:37:19,219	10	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:37:19,220	11	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 16:37:19,220	11	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 16:37:19,220	11	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:37:19,220	11	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 16:37:19,220	11	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 16:37:19,220	11	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:37:19,221	12	Calculator.ExpressionTree	[main]	value of the node is set to 77 and is set to leaf node
+DEBUG	2016-02-06 16:37:19,221	12	Calculator.ExpressionTree	[main]	Left node is found with value 77
+TRACE	2016-02-06 16:37:19,221	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:37:19,221	12	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:37:19,222	13	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 16:37:19,222	13	Calculator.ExpressionTree	[main]	Proccessed input
+INFO	2016-02-06 16:37:19,222	13	Calculator.App	[main]	Generated Expression tree
+TRACE	2016-02-06 16:37:19,222	13	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 16:37:19,222	13	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:37:19,222	13	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:37:19,223	14	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:37:19,223	14	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 16:37:19,223	14	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+DEBUG	2016-02-06 16:37:19,223	14	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 2
+TRACE	2016-02-06 16:37:19,223	14	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:37:19,224	15	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:37:19,224	15	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:37:19,224	15	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:37:19,225	16	Calculator.ExpressionTree	[main]	Leaf node with value 77
+DEBUG	2016-02-06 16:37:19,225	16	Calculator.ExpressionTree	[main]	Output of left node traversal is 77
+TRACE	2016-02-06 16:37:19,225	16	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:37:19,225	16	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:37:19,225	16	Calculator.ExpressionTree	[main]	Leaf node with value 2 varibale name a
+DEBUG	2016-02-06 16:37:19,226	17	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 16:37:19,226	17	Calculator.ExpressionTree	[main]	Evaluating operator div for values 77 and 2
+TRACE	2016-02-06 16:37:19,227	18	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 16:37:19,227	18	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 16:37:19,228	19	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 16:37:19,228	19	Calculator.Calculator	[main]	BasicArithmatic method for div operation77 and 2 result38
+DEBUG	2016-02-06 16:37:19,228	19	Calculator.ExpressionTree	[main]	Result of div is 38
+TRACE	2016-02-06 16:37:19,228	19	Calculator.ExpressionTree	[main]	Returning result 38
+DEBUG	2016-02-06 16:37:19,228	19	Calculator.ExpressionTree	[main]	Output of right node traversal is 38
+TRACE	2016-02-06 16:37:19,229	20	Calculator.ExpressionTree	[main]	Returning result 38
+INFO	2016-02-06 16:37:19,229	20	Calculator.App	[main]	Expression tree result for string let(a,2,div(77,a)) is 38
+INFO	2016-02-06 16:37:19,229	20	Calculator.App	[main]	Exiting Main Function
+INFO	2016-02-06 16:38:59,526	0	Calculator.App	[main]	Started the Calulator Application
+TRACE	2016-02-06 16:38:59,530	4	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 16:38:59,531	5	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 16:38:59,532	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:38:59,532	6	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 16:38:59,532	6	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 16:38:59,532	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:38:59,536	10	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:38:59,536	10	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 16:38:59,537	11	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:38:59,537	11	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 16:38:59,537	11	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 16:38:59,537	11	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:38:59,537	11	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 16:38:59,537	11	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 16:38:59,538	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:38:59,538	12	Calculator.ExpressionTree	[main]	value of the node is set to 77 and is set to leaf node
+DEBUG	2016-02-06 16:38:59,538	12	Calculator.ExpressionTree	[main]	Left node is found with value 77
+TRACE	2016-02-06 16:38:59,538	12	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 16:38:59,538	12	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 16:38:59,538	12	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 16:38:59,539	13	Calculator.ExpressionTree	[main]	Proccessed input
+INFO	2016-02-06 16:38:59,539	13	Calculator.App	[main]	Generated Expression tree
+TRACE	2016-02-06 16:38:59,539	13	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 16:38:59,539	13	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:38:59,539	13	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:38:59,539	13	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:38:59,540	14	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 16:38:59,540	14	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+DEBUG	2016-02-06 16:38:59,540	14	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 2
+TRACE	2016-02-06 16:38:59,540	14	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:38:59,540	14	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 16:38:59,541	15	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 16:38:59,541	15	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:38:59,541	15	Calculator.ExpressionTree	[main]	Leaf node with value 77
+DEBUG	2016-02-06 16:38:59,541	15	Calculator.ExpressionTree	[main]	Output of left node traversal is 77
+TRACE	2016-02-06 16:38:59,541	15	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 16:38:59,542	16	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 16:38:59,542	16	Calculator.ExpressionTree	[main]	Leaf node with value 2 varibale name a
+DEBUG	2016-02-06 16:38:59,542	16	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 16:38:59,542	16	Calculator.ExpressionTree	[main]	Evaluating operator div for values 77 and 2
+TRACE	2016-02-06 16:38:59,544	18	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 16:38:59,544	18	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 16:38:59,544	18	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 16:38:59,545	19	Calculator.Calculator	[main]	BasicArithmatic method for div operation77 and 2 result38
+DEBUG	2016-02-06 16:38:59,545	19	Calculator.ExpressionTree	[main]	Result of div is 38
+TRACE	2016-02-06 16:38:59,545	19	Calculator.ExpressionTree	[main]	Returning result 38
+DEBUG	2016-02-06 16:38:59,545	19	Calculator.ExpressionTree	[main]	Output of right node traversal is 38
+TRACE	2016-02-06 16:38:59,545	19	Calculator.ExpressionTree	[main]	Returning result 38
+INFO	2016-02-06 16:38:59,546	20	Calculator.App	[main]	Expression tree result for string let(a,2,div(77,a)) is : 38
+INFO	2016-02-06 16:38:59,547	21	Calculator.App	[main]	Exiting Calulator Application
+INFO	2016-02-06 16:39:30,870	0	Calculator.App	[main]	Started the Calulator Application
+ERROR	2016-02-06 16:39:30,873	3	Calculator.App	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+INFO	2016-02-06 16:39:30,873	3	Calculator.App	[main]	Exiting Calulator Application
+INFO	2016-02-06 16:40:56,238	0	Calculator.App	[main]	Started the Calulator Application
+ERROR	2016-02-06 16:40:56,242	4	Calculator.App	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+INFO	2016-02-06 16:40:56,243	5	Calculator.App	[main]	Exiting Calulator Application
+TRACE	2016-02-06 17:03:01,196	0	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:03:01,197	1	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:03:01,198	2	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:03:01,198	2	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 2 result4
+TRACE	2016-02-06 17:03:01,271	75	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:03:01,272	76	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:03:01,272	76	Calculator.Calculator	[main]	Subtract operation found
+DEBUG	2016-02-06 17:03:01,272	76	Calculator.Calculator	[main]	BasicArithmatic method for sub operation3 and 2 result1
+TRACE	2016-02-06 17:03:01,323	127	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:03:01,323	127	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:03:01,323	127	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:03:01,325	129	Calculator.Calculator	[main]	BasicArithmatic method for mult operation2 and 5 result10
+TRACE	2016-02-06 17:03:01,364	168	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:03:01,364	168	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:03:01,365	169	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 17:03:01,365	169	Calculator.Calculator	[main]	BasicArithmatic method for div operation4 and 2 result2
+TRACE	2016-02-06 17:36:30,020	0	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:36:30,034	14	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:36:30,035	15	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:36:30,035	15	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 5 result7
+TRACE	2016-02-06 17:36:58,717	0	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:36:58,719	2	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:36:58,721	4	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:36:58,722	5	Calculator.ExpressionTree	[main]	node of the node is set to and with value -1 and is set to leaf node
+ERROR	2016-02-06 17:36:58,722	5	Calculator.ExpressionTree	[main]	invalid input string
+ERROR	2016-02-06 17:36:58,722	5	Calculator.ExpressionTree	[main]	java.lang.IllegalArgumentException: invalid input string
+INFO	2016-02-06 17:36:58,723	6	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:36:58,723	6	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:36:58,723	6	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+ERROR	2016-02-06 17:36:58,724	7	Calculator.ExpressionTree	[main]	Invalid expression tree, cannot evaluate
+TRACE	2016-02-06 17:37:32,563	1	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:37:32,564	2	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:37:32,566	4	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:37:32,567	5	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:37:32,567	5	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 17:37:32,568	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:37:32,568	6	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:37:32,568	6	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:37:32,569	7	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:37:32,569	7	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:37:32,569	7	Calculator.ExpressionTree	[main]	Right node is found with value 5
+INFO	2016-02-06 17:37:32,570	8	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:37:32,570	8	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:37:32,570	8	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:37:32,570	8	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:37:32,571	9	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:37:32,571	9	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:37:32,571	9	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:37:32,571	9	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:37:32,571	9	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:37:32,572	10	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:37:32,572	10	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 17:37:32,572	10	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 5
+TRACE	2016-02-06 17:37:32,575	13	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:37:32,575	13	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:37:32,576	14	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:37:32,576	14	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 5 result7
+DEBUG	2016-02-06 17:37:32,576	14	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 17:37:32,577	15	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 17:55:04,073	0	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:55:04,074	1	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:55:04,076	3	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,077	4	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:55:04,077	4	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 17:55:04,077	4	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,078	5	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,078	5	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:55:04,078	5	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,078	5	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,079	6	Calculator.ExpressionTree	[main]	Right node is found with value 5
+INFO	2016-02-06 17:55:04,079	6	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:55:04,079	6	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:55:04,079	6	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,080	7	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,080	7	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,080	7	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:55:04,080	7	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:55:04,081	8	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,081	8	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,081	8	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:55:04,081	8	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 17:55:04,082	9	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 5
+TRACE	2016-02-06 17:55:04,084	11	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,084	11	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,084	11	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:55:04,085	12	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 5 result7
+DEBUG	2016-02-06 17:55:04,085	12	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 17:55:04,085	12	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 17:55:04,169	96	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:55:04,169	96	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:55:04,169	96	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,169	96	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:55:04,170	97	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 17:55:04,170	97	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,170	97	Calculator.ExpressionTree	[main]	value of the node is set to 1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,170	97	Calculator.ExpressionTree	[main]	Left node is found with value 1
+TRACE	2016-02-06 17:55:04,171	98	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,171	98	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 17:55:04,171	98	Calculator.ExpressionTree	[main]	Right node is found mult
+TRACE	2016-02-06 17:55:04,171	98	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,172	99	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,172	99	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:55:04,172	99	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,173	100	Calculator.ExpressionTree	[main]	value of the node is set to 3 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,173	100	Calculator.ExpressionTree	[main]	Right node is found with value 3
+INFO	2016-02-06 17:55:04,173	100	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:55:04,173	100	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:55:04,173	100	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,174	101	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,174	101	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,174	101	Calculator.ExpressionTree	[main]	Leaf node with value 1
+DEBUG	2016-02-06 17:55:04,174	101	Calculator.ExpressionTree	[main]	Output of left node traversal is 1
+TRACE	2016-02-06 17:55:04,174	101	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,175	102	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,175	102	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,175	102	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,175	102	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:55:04,175	102	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:55:04,175	102	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,176	103	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,176	103	Calculator.ExpressionTree	[main]	Leaf node with value 3
+DEBUG	2016-02-06 17:55:04,176	103	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 17:55:04,176	103	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 2 and 3
+TRACE	2016-02-06 17:55:04,177	104	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,177	104	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,177	104	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:55:04,177	104	Calculator.Calculator	[main]	BasicArithmatic method for mult operation2 and 3 result6
+DEBUG	2016-02-06 17:55:04,178	105	Calculator.ExpressionTree	[main]	Result of mult is 6
+TRACE	2016-02-06 17:55:04,178	105	Calculator.ExpressionTree	[main]	Returning result 6
+DEBUG	2016-02-06 17:55:04,178	105	Calculator.ExpressionTree	[main]	Output of right node traversal is 6
+TRACE	2016-02-06 17:55:04,178	105	Calculator.ExpressionTree	[main]	Evaluating operator add for values 1 and 6
+TRACE	2016-02-06 17:55:04,178	105	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,179	106	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,179	106	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:55:04,179	106	Calculator.Calculator	[main]	BasicArithmatic method for add operation1 and 6 result7
+DEBUG	2016-02-06 17:55:04,179	106	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 17:55:04,180	107	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 17:55:04,211	138	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:55:04,212	139	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:55:04,212	139	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,212	139	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 17:55:04,212	139	Calculator.ExpressionTree	[main]	head is found mult
+TRACE	2016-02-06 17:55:04,212	139	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,213	140	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:55:04,213	140	Calculator.ExpressionTree	[main]	Left node is found add
+TRACE	2016-02-06 17:55:04,213	140	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,213	140	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,213	140	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:55:04,214	141	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,214	141	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,214	141	Calculator.ExpressionTree	[main]	Right node is found with value 2
+TRACE	2016-02-06 17:55:04,214	141	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,215	142	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 17:55:04,215	142	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 17:55:04,215	142	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,216	143	Calculator.ExpressionTree	[main]	value of the node is set to 9 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,216	143	Calculator.ExpressionTree	[main]	Left node is found with value 9
+TRACE	2016-02-06 17:55:04,216	143	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,217	144	Calculator.ExpressionTree	[main]	value of the node is set to 3 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,217	144	Calculator.ExpressionTree	[main]	Right node is found with value 3
+INFO	2016-02-06 17:55:04,218	145	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:55:04,218	145	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:55:04,218	145	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,219	146	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,219	146	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,219	146	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,220	147	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,220	147	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:55:04,220	147	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:55:04,220	147	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,220	147	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,220	147	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:55:04,221	148	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 17:55:04,221	148	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 2
+TRACE	2016-02-06 17:55:04,221	148	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,221	148	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,221	148	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:55:04,221	148	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 2 result4
+DEBUG	2016-02-06 17:55:04,222	149	Calculator.ExpressionTree	[main]	Result of add is 4
+TRACE	2016-02-06 17:55:04,222	149	Calculator.ExpressionTree	[main]	Returning result 4
+DEBUG	2016-02-06 17:55:04,222	149	Calculator.ExpressionTree	[main]	Output of left node traversal is 4
+TRACE	2016-02-06 17:55:04,222	149	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,223	150	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,223	150	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,223	150	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,223	150	Calculator.ExpressionTree	[main]	Leaf node with value 9
+DEBUG	2016-02-06 17:55:04,224	151	Calculator.ExpressionTree	[main]	Output of left node traversal is 9
+TRACE	2016-02-06 17:55:04,224	151	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,224	151	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,225	152	Calculator.ExpressionTree	[main]	Leaf node with value 3
+DEBUG	2016-02-06 17:55:04,225	152	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 17:55:04,225	152	Calculator.ExpressionTree	[main]	Evaluating operator div for values 9 and 3
+TRACE	2016-02-06 17:55:04,225	152	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,225	152	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,225	152	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 17:55:04,226	153	Calculator.Calculator	[main]	BasicArithmatic method for div operation9 and 3 result3
+DEBUG	2016-02-06 17:55:04,226	153	Calculator.ExpressionTree	[main]	Result of div is 3
+TRACE	2016-02-06 17:55:04,226	153	Calculator.ExpressionTree	[main]	Returning result 3
+DEBUG	2016-02-06 17:55:04,229	156	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 17:55:04,229	156	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 4 and 3
+TRACE	2016-02-06 17:55:04,230	157	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,230	157	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,230	157	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:55:04,230	157	Calculator.Calculator	[main]	BasicArithmatic method for mult operation4 and 3 result12
+DEBUG	2016-02-06 17:55:04,230	157	Calculator.ExpressionTree	[main]	Result of mult is 12
+TRACE	2016-02-06 17:55:04,230	157	Calculator.ExpressionTree	[main]	Returning result 12
+TRACE	2016-02-06 17:55:04,269	196	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:55:04,270	197	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:55:04,270	197	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,270	197	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 17:55:04,270	197	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 17:55:04,270	197	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,271	198	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,271	198	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 17:55:04,271	198	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,271	198	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,272	199	Calculator.ExpressionTree	[main]	Left node is found with value 5
+TRACE	2016-02-06 17:55:04,272	199	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,272	199	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:55:04,273	200	Calculator.ExpressionTree	[main]	Right node is found add
+TRACE	2016-02-06 17:55:04,273	200	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,274	201	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,274	201	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 17:55:04,274	201	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,275	202	Calculator.ExpressionTree	[main]	value of the node is set to 10 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,275	202	Calculator.ExpressionTree	[main]	Right node is found with value 10
+INFO	2016-02-06 17:55:04,275	202	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:55:04,275	202	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:55:04,276	203	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,276	203	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,276	203	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,277	204	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:55:04,277	204	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+DEBUG	2016-02-06 17:55:04,277	204	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 5
+TRACE	2016-02-06 17:55:04,280	207	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,280	207	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,281	208	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,282	209	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,282	209	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 17:55:04,282	209	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+TRACE	2016-02-06 17:55:04,283	210	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,283	210	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,283	210	Calculator.ExpressionTree	[main]	Leaf node with value 10
+DEBUG	2016-02-06 17:55:04,283	210	Calculator.ExpressionTree	[main]	Output of right node traversal is 10
+TRACE	2016-02-06 17:55:04,287	214	Calculator.ExpressionTree	[main]	Evaluating operator add for values 5 and 10
+TRACE	2016-02-06 17:55:04,288	215	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,288	215	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,289	216	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:55:04,289	216	Calculator.Calculator	[main]	BasicArithmatic method for add operation5 and 10 result15
+DEBUG	2016-02-06 17:55:04,290	217	Calculator.ExpressionTree	[main]	Result of add is 15
+TRACE	2016-02-06 17:55:04,290	217	Calculator.ExpressionTree	[main]	Returning result 15
+DEBUG	2016-02-06 17:55:04,290	217	Calculator.ExpressionTree	[main]	Output of right node traversal is 15
+TRACE	2016-02-06 17:55:04,290	217	Calculator.ExpressionTree	[main]	Returning result 15
+TRACE	2016-02-06 17:55:04,345	272	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:55:04,347	274	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:55:04,348	275	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,348	275	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 17:55:04,348	275	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 17:55:04,348	275	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,349	276	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,349	276	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 17:55:04,349	276	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,349	276	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,350	277	Calculator.ExpressionTree	[main]	Left node is found with value 5
+TRACE	2016-02-06 17:55:04,350	277	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,350	277	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 17:55:04,353	280	Calculator.ExpressionTree	[main]	Right node is found let
+TRACE	2016-02-06 17:55:04,354	281	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,355	282	Calculator.ExpressionTree	[main]	node of the node is set to b with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,356	283	Calculator.ExpressionTree	[main]	Left node is found with varibale name b
+TRACE	2016-02-06 17:55:04,356	283	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,356	283	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 17:55:04,356	283	Calculator.ExpressionTree	[main]	Left node is found mult
+TRACE	2016-02-06 17:55:04,358	285	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,358	285	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,358	285	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 17:55:04,359	286	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,360	287	Calculator.ExpressionTree	[main]	value of the node is set to 10 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,364	291	Calculator.ExpressionTree	[main]	Right node is found with value 10
+TRACE	2016-02-06 17:55:04,365	292	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,365	292	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:55:04,367	294	Calculator.ExpressionTree	[main]	Right node is found add
+TRACE	2016-02-06 17:55:04,367	294	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,367	294	Calculator.ExpressionTree	[main]	node of the node is set to b with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,368	295	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 17:55:04,368	295	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:55:04,368	295	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:55:04,368	295	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 17:55:04,368	295	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:55:04,369	296	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:55:04,369	296	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,369	296	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,369	296	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,370	297	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:55:04,370	297	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+DEBUG	2016-02-06 17:55:04,370	297	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 5
+TRACE	2016-02-06 17:55:04,381	308	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,382	309	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,382	309	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,383	310	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,384	311	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,384	311	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,384	311	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 17:55:04,384	311	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+TRACE	2016-02-06 17:55:04,385	312	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,385	312	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,385	312	Calculator.ExpressionTree	[main]	Leaf node with value 10
+DEBUG	2016-02-06 17:55:04,385	312	Calculator.ExpressionTree	[main]	Output of right node traversal is 10
+TRACE	2016-02-06 17:55:04,386	313	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 5 and 10
+TRACE	2016-02-06 17:55:04,386	313	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,387	314	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,387	314	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:55:04,388	315	Calculator.Calculator	[main]	BasicArithmatic method for mult operation5 and 10 result50
+DEBUG	2016-02-06 17:55:04,393	320	Calculator.ExpressionTree	[main]	Result of mult is 50
+TRACE	2016-02-06 17:55:04,393	320	Calculator.ExpressionTree	[main]	Returning result 50
+DEBUG	2016-02-06 17:55:04,394	321	Calculator.ExpressionTree	[main]	Output of left node traversal is 50
+DEBUG	2016-02-06 17:55:04,394	321	Calculator.ExpressionTree	[main]	let operator found storing variable with nameb and value 50
+TRACE	2016-02-06 17:55:04,394	321	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,395	322	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:55:04,395	322	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:55:04,395	322	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,395	322	Calculator.ExpressionTree	[main]	Leaf node with value 50 varibale name b
+DEBUG	2016-02-06 17:55:04,396	323	Calculator.ExpressionTree	[main]	Output of left node traversal is 50
+TRACE	2016-02-06 17:55:04,396	323	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:55:04,396	323	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:55:04,396	323	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 17:55:04,397	324	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 17:55:04,397	324	Calculator.ExpressionTree	[main]	Evaluating operator add for values 50 and 5
+TRACE	2016-02-06 17:55:04,397	324	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:55:04,397	324	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:55:04,398	325	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:55:04,398	325	Calculator.Calculator	[main]	BasicArithmatic method for add operation50 and 5 result55
+DEBUG	2016-02-06 17:55:04,398	325	Calculator.ExpressionTree	[main]	Result of add is 55
+TRACE	2016-02-06 17:55:04,398	325	Calculator.ExpressionTree	[main]	Returning result 55
+DEBUG	2016-02-06 17:55:04,398	325	Calculator.ExpressionTree	[main]	Output of right node traversal is 55
+TRACE	2016-02-06 17:55:04,399	326	Calculator.ExpressionTree	[main]	Returning result 55
+DEBUG	2016-02-06 17:55:04,399	326	Calculator.ExpressionTree	[main]	Output of right node traversal is 55
+TRACE	2016-02-06 17:55:04,399	326	Calculator.ExpressionTree	[main]	Returning result 55
+TRACE	2016-02-06 17:56:10,143	0	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:56:10,144	1	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:56:10,146	3	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,147	4	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:56:10,147	4	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 17:56:10,147	4	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,148	5	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,148	5	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:56:10,148	5	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,149	6	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,149	6	Calculator.ExpressionTree	[main]	Right node is found with value 5
+INFO	2016-02-06 17:56:10,149	6	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:56:10,149	6	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:56:10,150	7	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,150	7	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,150	7	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,150	7	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:56:10,151	8	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:56:10,151	8	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,151	8	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,151	8	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:56:10,151	8	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 17:56:10,152	9	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 5
+TRACE	2016-02-06 17:56:10,154	11	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,155	12	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,155	12	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:56:10,155	12	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 5 result7
+DEBUG	2016-02-06 17:56:10,155	12	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 17:56:10,156	13	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 17:56:10,246	103	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:56:10,246	103	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:56:10,246	103	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,247	104	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:56:10,247	104	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 17:56:10,247	104	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,247	104	Calculator.ExpressionTree	[main]	value of the node is set to 1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,248	105	Calculator.ExpressionTree	[main]	Left node is found with value 1
+TRACE	2016-02-06 17:56:10,248	105	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,248	105	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 17:56:10,248	105	Calculator.ExpressionTree	[main]	Right node is found mult
+TRACE	2016-02-06 17:56:10,249	106	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,249	106	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,249	106	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:56:10,250	107	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,250	107	Calculator.ExpressionTree	[main]	value of the node is set to 3 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,250	107	Calculator.ExpressionTree	[main]	Right node is found with value 3
+INFO	2016-02-06 17:56:10,250	107	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:56:10,251	108	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:56:10,251	108	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,251	108	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,251	108	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,252	109	Calculator.ExpressionTree	[main]	Leaf node with value 1
+DEBUG	2016-02-06 17:56:10,252	109	Calculator.ExpressionTree	[main]	Output of left node traversal is 1
+TRACE	2016-02-06 17:56:10,252	109	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,252	109	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,252	109	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,253	110	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,253	110	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:56:10,253	110	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:56:10,254	111	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,254	111	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,254	111	Calculator.ExpressionTree	[main]	Leaf node with value 3
+DEBUG	2016-02-06 17:56:10,254	111	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 17:56:10,260	117	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 2 and 3
+TRACE	2016-02-06 17:56:10,261	118	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,261	118	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,262	119	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:56:10,262	119	Calculator.Calculator	[main]	BasicArithmatic method for mult operation2 and 3 result6
+DEBUG	2016-02-06 17:56:10,262	119	Calculator.ExpressionTree	[main]	Result of mult is 6
+TRACE	2016-02-06 17:56:10,262	119	Calculator.ExpressionTree	[main]	Returning result 6
+DEBUG	2016-02-06 17:56:10,262	119	Calculator.ExpressionTree	[main]	Output of right node traversal is 6
+TRACE	2016-02-06 17:56:10,264	121	Calculator.ExpressionTree	[main]	Evaluating operator add for values 1 and 6
+TRACE	2016-02-06 17:56:10,265	122	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,265	122	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,265	122	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:56:10,265	122	Calculator.Calculator	[main]	BasicArithmatic method for add operation1 and 6 result7
+DEBUG	2016-02-06 17:56:10,265	122	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 17:56:10,266	123	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 17:56:10,332	189	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:56:10,333	190	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:56:10,333	190	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,333	190	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 17:56:10,333	190	Calculator.ExpressionTree	[main]	head is found mult
+TRACE	2016-02-06 17:56:10,333	190	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,333	190	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:56:10,334	191	Calculator.ExpressionTree	[main]	Left node is found add
+TRACE	2016-02-06 17:56:10,334	191	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,334	191	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,334	191	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 17:56:10,335	192	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,335	192	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,335	192	Calculator.ExpressionTree	[main]	Right node is found with value 2
+TRACE	2016-02-06 17:56:10,335	192	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,336	193	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 17:56:10,336	193	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 17:56:10,336	193	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,336	193	Calculator.ExpressionTree	[main]	value of the node is set to 9 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,336	193	Calculator.ExpressionTree	[main]	Left node is found with value 9
+TRACE	2016-02-06 17:56:10,336	193	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	value of the node is set to 3 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	Right node is found with value 3
+INFO	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,337	194	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,338	195	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 17:56:10,339	196	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 17:56:10,339	196	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 2
+TRACE	2016-02-06 17:56:10,339	196	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,339	196	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,339	196	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:56:10,339	196	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 2 result4
+DEBUG	2016-02-06 17:56:10,339	196	Calculator.ExpressionTree	[main]	Result of add is 4
+TRACE	2016-02-06 17:56:10,339	196	Calculator.ExpressionTree	[main]	Returning result 4
+DEBUG	2016-02-06 17:56:10,340	197	Calculator.ExpressionTree	[main]	Output of left node traversal is 4
+TRACE	2016-02-06 17:56:10,340	197	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,340	197	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,340	197	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,340	197	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,340	197	Calculator.ExpressionTree	[main]	Leaf node with value 9
+DEBUG	2016-02-06 17:56:10,341	198	Calculator.ExpressionTree	[main]	Output of left node traversal is 9
+TRACE	2016-02-06 17:56:10,341	198	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,341	198	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,341	198	Calculator.ExpressionTree	[main]	Leaf node with value 3
+DEBUG	2016-02-06 17:56:10,341	198	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 17:56:10,341	198	Calculator.ExpressionTree	[main]	Evaluating operator div for values 9 and 3
+TRACE	2016-02-06 17:56:10,341	198	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,342	199	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,342	199	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 17:56:10,342	199	Calculator.Calculator	[main]	BasicArithmatic method for div operation9 and 3 result3
+DEBUG	2016-02-06 17:56:10,342	199	Calculator.ExpressionTree	[main]	Result of div is 3
+TRACE	2016-02-06 17:56:10,342	199	Calculator.ExpressionTree	[main]	Returning result 3
+DEBUG	2016-02-06 17:56:10,344	201	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 17:56:10,344	201	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 4 and 3
+TRACE	2016-02-06 17:56:10,344	201	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,344	201	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,344	201	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:56:10,344	201	Calculator.Calculator	[main]	BasicArithmatic method for mult operation4 and 3 result12
+DEBUG	2016-02-06 17:56:10,345	202	Calculator.ExpressionTree	[main]	Result of mult is 12
+TRACE	2016-02-06 17:56:10,345	202	Calculator.ExpressionTree	[main]	Returning result 12
+TRACE	2016-02-06 17:56:10,415	272	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:56:10,416	273	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:56:10,416	273	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,416	273	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 17:56:10,416	273	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 17:56:10,417	274	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,417	274	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	Left node is found with value 5
+TRACE	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:56:10,418	275	Calculator.ExpressionTree	[main]	Right node is found add
+TRACE	2016-02-06 17:56:10,419	276	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,419	276	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,419	276	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 17:56:10,419	276	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,419	276	Calculator.ExpressionTree	[main]	value of the node is set to 10 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	Right node is found with value 10
+INFO	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+DEBUG	2016-02-06 17:56:10,420	277	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 5
+TRACE	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+TRACE	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,421	278	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,422	279	Calculator.ExpressionTree	[main]	Leaf node with value 10
+DEBUG	2016-02-06 17:56:10,422	279	Calculator.ExpressionTree	[main]	Output of right node traversal is 10
+TRACE	2016-02-06 17:56:10,422	279	Calculator.ExpressionTree	[main]	Evaluating operator add for values 5 and 10
+TRACE	2016-02-06 17:56:10,422	279	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,422	279	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,422	279	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:56:10,422	279	Calculator.Calculator	[main]	BasicArithmatic method for add operation5 and 10 result15
+DEBUG	2016-02-06 17:56:10,423	280	Calculator.ExpressionTree	[main]	Result of add is 15
+TRACE	2016-02-06 17:56:10,423	280	Calculator.ExpressionTree	[main]	Returning result 15
+DEBUG	2016-02-06 17:56:10,423	280	Calculator.ExpressionTree	[main]	Output of right node traversal is 15
+TRACE	2016-02-06 17:56:10,423	280	Calculator.ExpressionTree	[main]	Returning result 15
+TRACE	2016-02-06 17:56:10,461	318	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,462	319	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	Left node is found with value 5
+TRACE	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	Right node is found let
+TRACE	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,463	320	Calculator.ExpressionTree	[main]	node of the node is set to b with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,464	321	Calculator.ExpressionTree	[main]	Left node is found with varibale name b
+TRACE	2016-02-06 17:56:10,464	321	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,464	321	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 17:56:10,464	321	Calculator.ExpressionTree	[main]	Left node is found mult
+TRACE	2016-02-06 17:56:10,464	321	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,465	322	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,465	322	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 17:56:10,465	322	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,465	322	Calculator.ExpressionTree	[main]	value of the node is set to 10 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,465	322	Calculator.ExpressionTree	[main]	Right node is found with value 10
+TRACE	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	Right node is found add
+TRACE	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	node of the node is set to b with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 17:56:10,466	323	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,467	324	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+DEBUG	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 5
+TRACE	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,468	325	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 17:56:10,469	326	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+TRACE	2016-02-06 17:56:10,469	326	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,469	326	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,469	326	Calculator.ExpressionTree	[main]	Leaf node with value 10
+DEBUG	2016-02-06 17:56:10,469	326	Calculator.ExpressionTree	[main]	Output of right node traversal is 10
+TRACE	2016-02-06 17:56:10,469	326	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 5 and 10
+TRACE	2016-02-06 17:56:10,469	326	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,469	326	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,470	327	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:56:10,470	327	Calculator.Calculator	[main]	BasicArithmatic method for mult operation5 and 10 result50
+DEBUG	2016-02-06 17:56:10,470	327	Calculator.ExpressionTree	[main]	Result of mult is 50
+TRACE	2016-02-06 17:56:10,474	331	Calculator.ExpressionTree	[main]	Returning result 50
+DEBUG	2016-02-06 17:56:10,475	332	Calculator.ExpressionTree	[main]	Output of left node traversal is 50
+DEBUG	2016-02-06 17:56:10,475	332	Calculator.ExpressionTree	[main]	let operator found storing variable with nameb and value 50
+TRACE	2016-02-06 17:56:10,475	332	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,475	332	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 17:56:10,475	332	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 17:56:10,475	332	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,476	333	Calculator.ExpressionTree	[main]	Leaf node with value 50 varibale name b
+DEBUG	2016-02-06 17:56:10,476	333	Calculator.ExpressionTree	[main]	Output of left node traversal is 50
+TRACE	2016-02-06 17:56:10,476	333	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 17:56:10,477	334	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 17:56:10,477	334	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 17:56:10,477	334	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 17:56:10,477	334	Calculator.ExpressionTree	[main]	Evaluating operator add for values 50 and 5
+TRACE	2016-02-06 17:56:10,477	334	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:56:10,477	334	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:56:10,477	334	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:56:10,477	334	Calculator.Calculator	[main]	BasicArithmatic method for add operation50 and 5 result55
+DEBUG	2016-02-06 17:56:10,478	335	Calculator.ExpressionTree	[main]	Result of add is 55
+TRACE	2016-02-06 17:56:10,478	335	Calculator.ExpressionTree	[main]	Returning result 55
+DEBUG	2016-02-06 17:56:10,478	335	Calculator.ExpressionTree	[main]	Output of right node traversal is 55
+TRACE	2016-02-06 17:56:10,478	335	Calculator.ExpressionTree	[main]	Returning result 55
+DEBUG	2016-02-06 17:56:10,478	335	Calculator.ExpressionTree	[main]	Output of right node traversal is 55
+TRACE	2016-02-06 17:56:10,479	336	Calculator.ExpressionTree	[main]	Returning result 55
+TRACE	2016-02-06 17:59:19,890	0	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:59:19,892	2	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:59:19,892	2	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 17:59:19,893	3	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 2 result4
+TRACE	2016-02-06 17:59:19,991	101	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:59:19,992	102	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:59:19,992	102	Calculator.Calculator	[main]	Subtract operation found
+DEBUG	2016-02-06 17:59:19,992	102	Calculator.Calculator	[main]	BasicArithmatic method for sub operation3 and 2 result1
+TRACE	2016-02-06 17:59:20,037	147	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:59:20,038	148	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:59:20,038	148	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 17:59:20,038	148	Calculator.Calculator	[main]	BasicArithmatic method for mult operation2 and 5 result10
+TRACE	2016-02-06 17:59:20,103	213	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 17:59:20,103	213	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 17:59:20,104	214	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 17:59:20,104	214	Calculator.Calculator	[main]	BasicArithmatic method for div operation4 and 2 result2
+TRACE	2016-02-06 18:00:37,710	0	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 18:00:37,712	2	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 18:00:37,714	4	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,714	4	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 18:00:37,714	4	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 18:00:37,715	5	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,715	5	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,716	6	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 18:00:37,716	6	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,716	6	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,716	6	Calculator.ExpressionTree	[main]	Right node is found with value 5
+INFO	2016-02-06 18:00:37,716	6	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 18:00:37,717	7	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 18:00:37,717	7	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,717	7	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,717	7	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,717	7	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 18:00:37,718	8	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 18:00:37,718	8	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,718	8	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,718	8	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 18:00:37,718	8	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 18:00:37,719	9	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 5
+TRACE	2016-02-06 18:00:37,720	10	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,721	11	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,721	11	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 18:00:37,721	11	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 5 result7
+DEBUG	2016-02-06 18:00:37,721	11	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 18:00:37,721	11	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 18:00:37,807	97	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 18:00:37,807	97	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 18:00:37,808	98	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,808	98	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 18:00:37,808	98	Calculator.ExpressionTree	[main]	head is found add
+TRACE	2016-02-06 18:00:37,809	99	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,809	99	Calculator.ExpressionTree	[main]	value of the node is set to 1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,809	99	Calculator.ExpressionTree	[main]	Left node is found with value 1
+TRACE	2016-02-06 18:00:37,809	99	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,810	100	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 18:00:37,810	100	Calculator.ExpressionTree	[main]	Right node is found mult
+TRACE	2016-02-06 18:00:37,810	100	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,811	101	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,811	101	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 18:00:37,811	101	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,811	101	Calculator.ExpressionTree	[main]	value of the node is set to 3 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,812	102	Calculator.ExpressionTree	[main]	Right node is found with value 3
+INFO	2016-02-06 18:00:37,812	102	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 18:00:37,812	102	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 18:00:37,812	102	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,813	103	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,813	103	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,813	103	Calculator.ExpressionTree	[main]	Leaf node with value 1
+DEBUG	2016-02-06 18:00:37,813	103	Calculator.ExpressionTree	[main]	Output of left node traversal is 1
+TRACE	2016-02-06 18:00:37,814	104	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,814	104	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,814	104	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,814	104	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,815	105	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 18:00:37,815	105	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 18:00:37,815	105	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,815	105	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,815	105	Calculator.ExpressionTree	[main]	Leaf node with value 3
+DEBUG	2016-02-06 18:00:37,816	106	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 18:00:37,816	106	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 2 and 3
+TRACE	2016-02-06 18:00:37,816	106	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,817	107	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,817	107	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 18:00:37,817	107	Calculator.Calculator	[main]	BasicArithmatic method for mult operation2 and 3 result6
+DEBUG	2016-02-06 18:00:37,817	107	Calculator.ExpressionTree	[main]	Result of mult is 6
+TRACE	2016-02-06 18:00:37,817	107	Calculator.ExpressionTree	[main]	Returning result 6
+DEBUG	2016-02-06 18:00:37,818	108	Calculator.ExpressionTree	[main]	Output of right node traversal is 6
+TRACE	2016-02-06 18:00:37,818	108	Calculator.ExpressionTree	[main]	Evaluating operator add for values 1 and 6
+TRACE	2016-02-06 18:00:37,818	108	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,818	108	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,819	109	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 18:00:37,819	109	Calculator.Calculator	[main]	BasicArithmatic method for add operation1 and 6 result7
+DEBUG	2016-02-06 18:00:37,819	109	Calculator.ExpressionTree	[main]	Result of add is 7
+TRACE	2016-02-06 18:00:37,819	109	Calculator.ExpressionTree	[main]	Returning result 7
+TRACE	2016-02-06 18:00:37,865	155	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 18:00:37,865	155	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 18:00:37,866	156	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,866	156	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 18:00:37,867	157	Calculator.ExpressionTree	[main]	head is found mult
+TRACE	2016-02-06 18:00:37,867	157	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,867	157	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 18:00:37,867	157	Calculator.ExpressionTree	[main]	Left node is found add
+TRACE	2016-02-06 18:00:37,867	157	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,868	158	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,868	158	Calculator.ExpressionTree	[main]	Left node is found with value 2
+TRACE	2016-02-06 18:00:37,868	158	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,869	159	Calculator.ExpressionTree	[main]	value of the node is set to 2 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,870	160	Calculator.ExpressionTree	[main]	Right node is found with value 2
+TRACE	2016-02-06 18:00:37,870	160	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,870	160	Calculator.ExpressionTree	[main]	div operator is set with value -1
+DEBUG	2016-02-06 18:00:37,870	160	Calculator.ExpressionTree	[main]	Right node is found div
+TRACE	2016-02-06 18:00:37,871	161	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,871	161	Calculator.ExpressionTree	[main]	value of the node is set to 9 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,871	161	Calculator.ExpressionTree	[main]	Left node is found with value 9
+TRACE	2016-02-06 18:00:37,871	161	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,872	162	Calculator.ExpressionTree	[main]	value of the node is set to 3 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,872	162	Calculator.ExpressionTree	[main]	Right node is found with value 3
+INFO	2016-02-06 18:00:37,872	162	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 18:00:37,872	162	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 18:00:37,873	163	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,873	163	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,873	163	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,873	163	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,873	163	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	Output of left node traversal is 2
+TRACE	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	Leaf node with value 2
+DEBUG	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	Output of right node traversal is 2
+TRACE	2016-02-06 18:00:37,874	164	Calculator.ExpressionTree	[main]	Evaluating operator add for values 2 and 2
+TRACE	2016-02-06 18:00:37,875	165	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,875	165	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,875	165	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 18:00:37,875	165	Calculator.Calculator	[main]	BasicArithmatic method for add operation2 and 2 result4
+DEBUG	2016-02-06 18:00:37,875	165	Calculator.ExpressionTree	[main]	Result of add is 4
+TRACE	2016-02-06 18:00:37,875	165	Calculator.ExpressionTree	[main]	Returning result 4
+DEBUG	2016-02-06 18:00:37,876	166	Calculator.ExpressionTree	[main]	Output of left node traversal is 4
+TRACE	2016-02-06 18:00:37,876	166	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,876	166	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,876	166	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,876	166	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,876	166	Calculator.ExpressionTree	[main]	Leaf node with value 9
+DEBUG	2016-02-06 18:00:37,877	167	Calculator.ExpressionTree	[main]	Output of left node traversal is 9
+TRACE	2016-02-06 18:00:37,877	167	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,877	167	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,877	167	Calculator.ExpressionTree	[main]	Leaf node with value 3
+DEBUG	2016-02-06 18:00:37,877	167	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 18:00:37,877	167	Calculator.ExpressionTree	[main]	Evaluating operator div for values 9 and 3
+TRACE	2016-02-06 18:00:37,878	168	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,878	168	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,878	168	Calculator.Calculator	[main]	div operation found
+DEBUG	2016-02-06 18:00:37,878	168	Calculator.Calculator	[main]	BasicArithmatic method for div operation9 and 3 result3
+DEBUG	2016-02-06 18:00:37,881	171	Calculator.ExpressionTree	[main]	Result of div is 3
+TRACE	2016-02-06 18:00:37,881	171	Calculator.ExpressionTree	[main]	Returning result 3
+DEBUG	2016-02-06 18:00:37,881	171	Calculator.ExpressionTree	[main]	Output of right node traversal is 3
+TRACE	2016-02-06 18:00:37,881	171	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 4 and 3
+TRACE	2016-02-06 18:00:37,881	171	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,882	172	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,882	172	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 18:00:37,882	172	Calculator.Calculator	[main]	BasicArithmatic method for mult operation4 and 3 result12
+DEBUG	2016-02-06 18:00:37,882	172	Calculator.ExpressionTree	[main]	Result of mult is 12
+TRACE	2016-02-06 18:00:37,882	172	Calculator.ExpressionTree	[main]	Returning result 12
+TRACE	2016-02-06 18:00:37,925	215	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 18:00:37,926	216	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 18:00:37,926	216	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,927	217	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 18:00:37,927	217	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 18:00:37,927	217	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,928	218	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,928	218	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 18:00:37,928	218	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,928	218	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,928	218	Calculator.ExpressionTree	[main]	Left node is found with value 5
+TRACE	2016-02-06 18:00:37,929	219	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,929	219	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 18:00:37,929	219	Calculator.ExpressionTree	[main]	Right node is found add
+TRACE	2016-02-06 18:00:37,929	219	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,929	219	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,930	220	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 18:00:37,930	220	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,930	220	Calculator.ExpressionTree	[main]	value of the node is set to 10 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,930	220	Calculator.ExpressionTree	[main]	Right node is found with value 10
+INFO	2016-02-06 18:00:37,930	220	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 18:00:37,930	220	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 18:00:37,931	221	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,931	221	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,931	221	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,931	221	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 18:00:37,932	222	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+DEBUG	2016-02-06 18:00:37,932	222	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 5
+TRACE	2016-02-06 18:00:37,932	222	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,932	222	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,932	222	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,932	222	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,933	223	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 18:00:37,933	223	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+TRACE	2016-02-06 18:00:37,933	223	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,933	223	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,933	223	Calculator.ExpressionTree	[main]	Leaf node with value 10
+DEBUG	2016-02-06 18:00:37,933	223	Calculator.ExpressionTree	[main]	Output of right node traversal is 10
+TRACE	2016-02-06 18:00:37,934	224	Calculator.ExpressionTree	[main]	Evaluating operator add for values 5 and 10
+TRACE	2016-02-06 18:00:37,934	224	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,934	224	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,934	224	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 18:00:37,934	224	Calculator.Calculator	[main]	BasicArithmatic method for add operation5 and 10 result15
+DEBUG	2016-02-06 18:00:37,935	225	Calculator.ExpressionTree	[main]	Result of add is 15
+TRACE	2016-02-06 18:00:37,935	225	Calculator.ExpressionTree	[main]	Returning result 15
+DEBUG	2016-02-06 18:00:37,935	225	Calculator.ExpressionTree	[main]	Output of right node traversal is 15
+TRACE	2016-02-06 18:00:37,935	225	Calculator.ExpressionTree	[main]	Returning result 15
+TRACE	2016-02-06 18:00:37,984	274	Calculator.ExpressionTree	[main]	Contructor for Expression tree called
+TRACE	2016-02-06 18:00:37,985	275	Calculator.ExpressionTree	[main]	ExpressionBuild method called
+TRACE	2016-02-06 18:00:37,985	275	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,985	275	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 18:00:37,985	275	Calculator.ExpressionTree	[main]	head is found let
+TRACE	2016-02-06 18:00:37,986	276	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,987	277	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,987	277	Calculator.ExpressionTree	[main]	Left node is found with varibale name a
+TRACE	2016-02-06 18:00:37,988	278	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,988	278	Calculator.ExpressionTree	[main]	value of the node is set to 5 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,988	278	Calculator.ExpressionTree	[main]	Left node is found with value 5
+TRACE	2016-02-06 18:00:37,988	278	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,988	278	Calculator.ExpressionTree	[main]	Let operator is set with value -1
+DEBUG	2016-02-06 18:00:37,988	278	Calculator.ExpressionTree	[main]	Right node is found let
+TRACE	2016-02-06 18:00:37,989	279	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,989	279	Calculator.ExpressionTree	[main]	node of the node is set to b with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,989	279	Calculator.ExpressionTree	[main]	Left node is found with varibale name b
+TRACE	2016-02-06 18:00:37,989	279	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,989	279	Calculator.ExpressionTree	[main]	mult operator is set with value -1
+DEBUG	2016-02-06 18:00:37,989	279	Calculator.ExpressionTree	[main]	Left node is found mult
+TRACE	2016-02-06 18:00:37,990	280	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,990	280	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,990	280	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 18:00:37,990	280	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,990	280	Calculator.ExpressionTree	[main]	value of the node is set to 10 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,991	281	Calculator.ExpressionTree	[main]	Right node is found with value 10
+TRACE	2016-02-06 18:00:37,991	281	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,991	281	Calculator.ExpressionTree	[main]	add operator is set with value -1
+DEBUG	2016-02-06 18:00:37,991	281	Calculator.ExpressionTree	[main]	Right node is found add
+TRACE	2016-02-06 18:00:37,992	282	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,992	282	Calculator.ExpressionTree	[main]	node of the node is set to b with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,992	282	Calculator.ExpressionTree	[main]	Left node is found with value -1
+TRACE	2016-02-06 18:00:37,992	282	Calculator.ExpressionTree	[main]	New Node is initialized
+TRACE	2016-02-06 18:00:37,993	283	Calculator.ExpressionTree	[main]	node of the node is set to a with value -1 and is set to leaf node
+DEBUG	2016-02-06 18:00:37,993	283	Calculator.ExpressionTree	[main]	Right node is found with varibale name a
+INFO	2016-02-06 18:00:37,993	283	Calculator.ExpressionTree	[main]	Proccessed input
+TRACE	2016-02-06 18:00:37,993	283	Calculator.ExpressionTree	[main]	getExpressionResult method is called called
+TRACE	2016-02-06 18:00:37,994	284	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,994	284	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,994	284	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,994	284	Calculator.ExpressionTree	[main]	Leaf node with value 5
+DEBUG	2016-02-06 18:00:37,994	284	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+DEBUG	2016-02-06 18:00:37,995	285	Calculator.ExpressionTree	[main]	let operator found storing variable with namea and value 5
+TRACE	2016-02-06 18:00:37,995	285	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,996	286	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,996	286	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,996	286	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:37,996	286	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:37,996	286	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	Output of left node traversal is 5
+TRACE	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	Leaf node with value 10
+DEBUG	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	Output of right node traversal is 10
+TRACE	2016-02-06 18:00:37,997	287	Calculator.ExpressionTree	[main]	Evaluating operator mult for values 5 and 10
+TRACE	2016-02-06 18:00:37,998	288	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:37,998	288	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:37,998	288	Calculator.Calculator	[main]	mult operation found
+DEBUG	2016-02-06 18:00:37,998	288	Calculator.Calculator	[main]	BasicArithmatic method for mult operation5 and 10 result50
+DEBUG	2016-02-06 18:00:37,999	289	Calculator.ExpressionTree	[main]	Result of mult is 50
+TRACE	2016-02-06 18:00:37,999	289	Calculator.ExpressionTree	[main]	Returning result 50
+DEBUG	2016-02-06 18:00:38,000	290	Calculator.ExpressionTree	[main]	Output of left node traversal is 50
+DEBUG	2016-02-06 18:00:38,000	290	Calculator.ExpressionTree	[main]	let operator found storing variable with nameb and value 50
+TRACE	2016-02-06 18:00:38,001	291	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:38,001	291	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+TRACE	2016-02-06 18:00:38,001	291	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on left node
+TRACE	2016-02-06 18:00:38,001	291	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:38,002	292	Calculator.ExpressionTree	[main]	Leaf node with value 50 varibale name b
+DEBUG	2016-02-06 18:00:38,002	292	Calculator.ExpressionTree	[main]	Output of left node traversal is 50
+TRACE	2016-02-06 18:00:38,002	292	Calculator.ExpressionTree	[main]	Calling TraverseExpTree on right node
+TRACE	2016-02-06 18:00:38,002	292	Calculator.ExpressionTree	[main]	TraverseExpTree is called
+DEBUG	2016-02-06 18:00:38,002	292	Calculator.ExpressionTree	[main]	Leaf node with value 5 varibale name a
+DEBUG	2016-02-06 18:00:38,003	293	Calculator.ExpressionTree	[main]	Output of right node traversal is 5
+TRACE	2016-02-06 18:00:38,003	293	Calculator.ExpressionTree	[main]	Evaluating operator add for values 50 and 5
+TRACE	2016-02-06 18:00:38,003	293	Calculator.Calculator	[main]	Calculator Initialized
+TRACE	2016-02-06 18:00:38,004	294	Calculator.Calculator	[main]	BasicArithmatic method called
+INFO	2016-02-06 18:00:38,004	294	Calculator.Calculator	[main]	Add operation found
+DEBUG	2016-02-06 18:00:38,004	294	Calculator.Calculator	[main]	BasicArithmatic method for add operation50 and 5 result55
+DEBUG	2016-02-06 18:00:38,004	294	Calculator.ExpressionTree	[main]	Result of add is 55
+TRACE	2016-02-06 18:00:38,004	294	Calculator.ExpressionTree	[main]	Returning result 55
+DEBUG	2016-02-06 18:00:38,004	294	Calculator.ExpressionTree	[main]	Output of right node traversal is 55
+TRACE	2016-02-06 18:00:38,004	294	Calculator.ExpressionTree	[main]	Returning result 55
+DEBUG	2016-02-06 18:00:38,005	295	Calculator.ExpressionTree	[main]	Output of right node traversal is 55
+TRACE	2016-02-06 18:00:38,005	295	Calculator.ExpressionTree	[main]	Returning result 55
