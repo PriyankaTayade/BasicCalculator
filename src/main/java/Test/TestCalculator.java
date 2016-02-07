@@ -2,7 +2,7 @@ package Test;
 
 //import static org.junit.Assert.assertEquals;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 import Calculator.Calculator;
 
@@ -13,7 +13,7 @@ import Calculator.Calculator;
  */
 public class TestCalculator {
 	
-  @Test
+  //@Test
   public void TestBasicArithmaticFunction() {
 	  Calculator calci=new Calculator();
 	  String[] op={"add","sub","mult","div"};

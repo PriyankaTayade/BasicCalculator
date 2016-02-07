@@ -1,14 +1,15 @@
 package Test;
 //import static org.junit.Assert.*;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 //import org.junit.Test;
 
 import Calculator.ExpressionTree;
 
 public class TestExpTree {
-	 @Test
+
+	 //@Test
 	  public void TestExp() {
 		 
 		 	String[] exp= {"add(2,5)"
