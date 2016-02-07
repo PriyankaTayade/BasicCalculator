@@ -1,6 +1,6 @@
 package Test;
 
-import static org.junit.Assert.assertEquals;
+//import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
@@ -25,7 +25,12 @@ public class TestCalculator {
 	  
 	  for(int i=0;i<op.length;i++){
 
-		 assertEquals(result[i],calci.BasicArithmatic(var1, var2, op[i])); 
+		 //assertEquals(result[i],calci.BasicArithmatic(var1, var2, op[i])); 
+		 if(calci.BasicArithmatic(var1, var2, op[i])==result[i]){
+			 System.out.println("Test Case failed");
+			 break;
+		 }
+		 else System.out.println("Test Case for "+op[i]+" passed for "+var1+ "and "+ var2);
 	 }
   }
 }
