@@ -7,6 +7,11 @@ package Test;
 
 import Calculator.ExpressionTree;
 
+/**
+ * This is the unit class to test ExpressionTree
+ * @author priyanka
+ *
+ */
 public class TestExpTree {
 
 	 //@Test
