@@ -301,11 +301,14 @@ Algorithm for basic arithmatic operation is very simple and straigt forward
   
 #INSTALLATION GUIDE FOR WINDOWS
 
+
 STEP 1. DOWNLOAD THE SOURCE CODE
 
 Method 1 1. Clone the project to your local Git repository
 
 Method 2 1. Download the compressed project file from github 2. Extract the file in local project folder
+
+
 
 STEP 2: CREATE MAVEN PROJECT
 
@@ -322,6 +325,8 @@ It will detect the pom.xml > Click "Finish".
 This will load the project in project explorer. > Expand the project
 
 Right click on App class -> go to run -> run configuartion -> provide commandline arguments -> click run
+
+
 
 STEP 3: RUN THE TEST AS TESTNG SUITE
 
