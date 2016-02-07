@@ -1,17 +1,17 @@
 # Basic Calculator
 Perform Basic Arithmatic Operation Using CLI, Implemented using Expression Tree
 
-PURPOSE
+#PURPOSE
 
 Write a calculator program in Java that evaluates expressions in a very simple integer expression language. The program takes an input on the command line, computes the result, and prints it to the console
 
-COMMAND LINE ARGUMENT
+#COMMAND LINE ARGUMENT
 
 1. first argument will be the input string, for expression
 
 2. second arguemnt is optional, it will set the log level
 
-Following are the example of valid expression
+#Following are the example of valid expression
 
   "add(2,5)"
   
@@ -24,7 +24,7 @@ Following are the example of valid expression
   "let(a,5,let(b,mult(a,10),add(b,a)))"
   
 
-An expression is one of the of the following:
+#An expression is one of the of the following:
 
 •	Numbers: integers between Integer.MIN_VALUE and Integer.MAX_VALUE
 
@@ -38,7 +38,7 @@ An expression is one of the of the following:
 
 Default log level is set to ALL
 
-following are the options, as valid second argument (all lowercase)
+#following are the options, as valid second argument (all lowercase)
 
 1. all
 
@@ -327,15 +327,3 @@ This will load the project in project explorer. > Expand the project
 Right click on App class -> go to run -> run configuartion -> provide commandline arguments -> click run
 
 
-
-STEP 3: RUN THE TEST AS TESTNG SUITE
-
-Right Click on testng.xml or testingCalculator.xml
-
-Go to Run > Click on TestNG Suite.
-
-Monitor the Suite and check for number of test case passed, failed and skipped.
-
-Ideally all the test case should pass.
-
- 
