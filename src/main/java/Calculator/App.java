@@ -5,31 +5,19 @@ import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 //import org.apache.log4j.PropertyConfigurator;
 
-/*
- * Example input
- * 
- * "add(2,5)"
- * "add(1,mult(2,3))"
- * "mult(add(2,2),div(9,3))"
- * "let(a,5,add(a,10))"
- * "let(a,5,let(b,mult(a,10),add(b,a)))"
- * 
- */
-
 /**
- * Hello world!
- *
+ * This is a Calculator application
+ *@author priyanka
+ *@version 1.0
  */
 public class App 
 {
-	/**
-	 * 
-	 */
+	
 	private static final Logger logger = LogManager.getLogger(App.class);
 	
 	/**
-	 * 
-	 * @param level
+	 * This method sets the log level log log4j
+	 * @param level takes level as parameter
 	 */
 	private static void setLogger(String level){
 		
@@ -56,8 +44,8 @@ public class App
 			 					
 	}
 	/**
-	 * 
-	 * @param args
+	 * This is the main method to run the calculator application
+	 * @param args takes 2 arguments , 1 as input expression and 2nd argument is optional to set log level
 	 */
     public static void main( String[] args )
     {
@@ -82,7 +70,7 @@ public class App
 				 logger.info("Generated Expression tree");
 			
 				 int result=exp.getExpressionResult();
-				 System.out.println(result);
+				 System.out.println("The result of the Expression is : "+result);
 				 logger.info("Expression tree result for string "+args[0]+" is : "+result);
 			}
     	}
